@@ -13,6 +13,8 @@ sudo dnf upgrade -y -qq
 # enable third-party repositories
 sudo dnf install fedora-workstation-repositories
 
+# install snap
+
 # install curl
 sudo dnf install curl
 
